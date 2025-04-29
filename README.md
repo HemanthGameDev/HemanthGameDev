@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Connect with Me:  
-🔗 **Portfolio Website:** (Coming Soon)  
+🔗 **Portfolio Website:** https://hemanthgamedev.netlify.app/ 
 💌 **Email:** gunti.hemanth.kumar.dev@gmail.com  
