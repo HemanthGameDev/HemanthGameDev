@@ -21,6 +21,8 @@
    - Timer-based level transitions  
    - Smooth scene management  
    - Checkpoints & respawn system
+---
+
 🐜 **[Ant-Sized Adventure](https://gunti-hemanth-kumar.itch.io/ant-sized-adventure)** – A **third-person backyard exploration game**
 🔹 **Key Features Implemented:**
   - Third-person character controller
